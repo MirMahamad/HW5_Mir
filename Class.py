@@ -4,7 +4,7 @@ class Hero:
 
 
 class Hero_super(Hero):
-    def __str__(self,):
+    def __str__(self):
         return
 
     def pr_name(self, name):
